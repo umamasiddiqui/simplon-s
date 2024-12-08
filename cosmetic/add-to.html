@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simplons-Beauty-Care</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styling/add.css">
+  <link rel="stylesheet" href="assets/styling/navbar.css">
+  <link rel="stylesheet" href="assets/styling/home.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- cdn-font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- cdn-font-awesome -->
+     <!-- goodle-fonts -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Acme&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+     <!-- goodle-fonts -->
+</head>
+</head>
+<body>
+  <nav></nav>
+    <header class="sticky-top"></header>
+
+    <section class="sc">
+      <h1 class="category-Name">Shopping Cart</h1>
+  </section>
+ <div class="add1">
+  <div class="card1">
+    <div class="row">
+        <div class="col-md-8 cart1">
+            
+            <div class="back-to-shop"><a href="home.html">&leftarrow;<span class="text-muted">Back to shop</span></a></div>
+        </div>
+        <div class="col-md-4 summary1">
+            <div><h5><b>Summary</b></h5></div>
+            <hr>
+            <div class="row1">
+            
+            </div>
+            
+            <form>
+                <p>SHIPPING</p>
+                <select><option class="text-muted">Standard-Delivery- PKR:500.00</option></select>
+                <p>GIVE CODE</p>
+                <input id="code" placeholder="Enter your code">
+            </form>
+            <div class="row1" style="border-top: 1px solid rgba(0,0,0,.1); padding: 2vh 0;">
+                <div class="col">TOTAL PRICE</div>
+                <div class="col text-right total-price">PKR: 0</div>
+
+            </div>
+            <a href="feedback.html">
+            <button class="btn">CHECKOUT</button>
+
+            </a>
+        </div>
+    </div>
+    
+</div>
+ </div>
+
+  <footer>
+
+  </footer>
+            
+
+  
+</body>
+</html>
+  <script src="assets/js/main.js"></script>
+<script src="assets/js/nav-foot.js"></script>
+<script src="assets/js/add-to-card.js"></script>
+<script>
+    function removeFromCart(productId) {
+    // Filter out the product to remove it
+    cart = cart.filter(item => item.id !== productId);
+    
+    // Save the updated cart back to localStorage
+    localStorage.setItem('cart', JSON.stringify(cart));
+
+    // Reload the page to refresh the cart UI
+    alert('Item removed from the cart.');
+    location.reload(); 
+}
+function addToCart(productId, productName, productPrice, productImage) {
+    // Parse price correctly to handle currency and extra spaces
+    let price = parseFloat(productPrice.replace('PKR', '').trim());
+    
+    // Check if the product is already in the cart
+    let existingProduct = cart.find(item => item.id === productId);
+
+    if (existingProduct) {
+        // Increase quantity if already in cart
+        existingProduct.quantity += 1;
+    } else {
+        // Add new product to cart
+        cart.push({
+            id: productId,
+            name: productName,
+            price: price,
+            image: productImage,
+            quantity: 1
+        });
+    }
+
+    // Save updated cart to localStorage
+    localStorage.setItem('cart', JSON.stringify(cart));
+
+    // Update the cart counter
+    updateCartCounter();
+
+    alert(`${productName} added to the cart!`);
+}
+
+
+    document.addEventListener('DOMContentLoaded', function () {
+    cart = JSON.parse(localStorage.getItem('cart')) || [];
+    let cartContainer = document.querySelector('.cart1');
+    let summaryContainer = document.querySelector('.summary1');
+    
+    if (cart.length === 0) {
+        cartContainer.innerHTML = '<h5 class="text-muted">Your cart is empty</h5>';
+        summaryContainer.innerHTML = '';
+        return;
+    }
+
+    let cartItemsHTML = '';
+    let totalPrice = 0;
+
+    cart.forEach(item => {
+        let itemTotal = item.quantity * item.price;
+        totalPrice += itemTotal;
+
+        cartItemsHTML += `
+            <div class="row border-top border-bottom">
+                <div class="row main1 align-items-center">
+                    <div class="col-2"><img class="img-fluid" src="${item.image}" alt="${item.name}"></div>
+                    <div class="col">
+                        <div class="row text-dark">${item.name}</div>
+                        <div class="row text-muted">Quantity: ${item.quantity}</div>
+                    </div>
+                    <div class="col text-dark">PKR: ${itemTotal.toFixed(2)} 
+                        <span style="cursor: pointer;" class="close1" onclick="removeFromCart('${item.id}')">&#10005;</span>
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+
+    cartContainer.innerHTML = cartItemsHTML;
+
+    summaryContainer.querySelector('.total-price').innerText = `PKR: ${totalPrice.toFixed(2)}`;
+});
+
+
+</script>
+

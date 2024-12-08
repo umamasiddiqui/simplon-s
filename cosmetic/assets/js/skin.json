@@ -1,0 +1,205 @@
+{
+    "skin_products": [
+      {
+        "category": "Cleansers (Face Washes)",
+        "products": [
+          {
+            "image": "S-C-1.jpeg",
+            "id": "1",
+            "name": "Neutrogena Fresh Foaming Cleanser",
+            "price": "PKR 1500",
+            "description": "A gentle, foaming cleanser that effectively removes dirt and makeup while leaving skin soft and refreshed."
+          },
+          {
+            "image": "S-C-2.jpeg",
+            "id": "2",
+            "name": "Cetaphil Daily Facial Cleanser",
+            "price": "PKR 2000",
+            "description": "A mild, non-irritating formula that softens as it cleans, ideal for sensitive skin."
+          },
+          {
+            "image": "S-C-3.jpeg",
+            "id": "3",
+            "name": "Himalaya Herbals Purifying Neem Face Wash",
+            "price": "PKR 800",
+            "description": "A herbal-based face wash that cleanses and purifies the skin, infused with neem and turmeric."
+          },
+          {
+            "image": "S-C-4.jpeg",
+            "id": "4",
+            "name": "CeraVe Hydrating Cleanser",
+            "price": "PKR 3000",
+            "description": "A hydrating cleanser that gently removes dirt and oil without stripping the skin's natural moisture."
+          },
+          {
+            "image": "S-C-5.jpg",
+            "id": "5",
+            "name": "L'Oréal Paris Revitalift Bright Reveal Brightening Foaming Cleanser",
+            "price": "PKR 1800",
+            "description": "A cleanser designed to brighten the skin and smooth uneven texture, revealing youthful radiance."
+          }
+        ]
+      },
+      {
+        "category": "Moisturizers",
+        "products": [
+          {
+            "image": "S-M-1.jpeg",
+            "id": "6",
+            "name": "Neutrogena Hydro Boost Water Gel",
+            "price": "PKR 2500",
+            "description": "A lightweight, oil-free moisturizer that absorbs quickly to boost hydration and leave skin refreshed."
+          },
+          {
+            "image": "S-M-2.jpeg",
+            "id": "7",
+            "name": "Clinique Dramatically Different Moisturizing Lotion",
+            "price": "PKR 4500",
+            "description": "A nourishing moisturizer that balances moisture and strengthens the skin's protective barrier."
+          },
+          {
+            "image": "S-M-3.jpeg",
+            "id": "8",
+            "name": "Olay Regenerist Whip Active Moisturizer",
+            "price": "PKR 3200",
+            "description": "A lightweight moisturizer that hydrates and improves skin texture while providing anti-aging benefits."
+          },
+          {
+            "image": "S-M-4.jpg",
+            "id": "9",
+            "name": "CeraVe Daily Moisturizing Lotion",
+            "price": "PKR 2800",
+            "description": "A fast-absorbing, non-greasy formula that provides long-lasting hydration for dry skin."
+          },
+          {
+            "image": "S-M-5.jpeg",
+            "id": "10",
+            "name": "The Ordinary Natural Moisturizing Factors + HA",
+            "price": "PKR 1800",
+            "description": "A rich moisturizer with hyaluronic acid that hydrates and restores the skin's natural moisture balance."
+          }
+        ]
+      },
+      {
+        "category": "Sunscreens (SPF)",
+        "products": [
+          {
+            "image": "S-S-1.jpeg",
+            "id": "11",
+            "name": "Neutrogena Ultra Sheer Dry-Touch Sunscreen SPF 100+",
+            "price": "PKR 2500",
+            "description": "A high-protection sunscreen that dries quickly, offering broad-spectrum protection without a greasy feel."
+          },
+          {
+            "image": "S-S-2.jpeg",
+            "id": "12",
+            "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 60",
+            "price": "PKR 3500",
+            "description": "A sunscreen that provides high protection with a rich, moisturizing texture."
+          },
+          {
+            "image": "S-S-3.jpeg",
+            "id": "13",
+            "name": "EltaMD UV Clear Broad-Spectrum SPF 46",
+            "price": "PKR 4000",
+            "description": "A lightweight, oil-free sunscreen that helps calm and protect sensitive skin types prone to discoloration and breakouts."
+          },
+          {
+            "image": "S-S-4.jpeg",
+            "id": "14",
+            "name": "Supergoop! Unseen Sunscreen SPF 40",
+            "price": "PKR 3800",
+            "description": "An invisible sunscreen with a lightweight, velvety texture that provides broad-spectrum protection without leaving a white cast."
+          },
+          {
+            "image": "S-S-5.jpg",
+            "id": "15",
+            "name": "Banana Boat Ultra Sport Sunscreen Lotion SPF 50",
+            "price": "PKR 1500",
+            "description": "A sport sunscreen that offers durable, sweat-resistant protection for outdoor activities."
+          }
+        ]
+      },
+      {
+        "category": "Serums (Skin Treatments)",
+        "products": [
+          {
+            "image": "S-SS-1.jpeg",
+            "id": "16",
+            "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+            "price": "PKR 1600",
+            "description": "A serum that minimizes pores, reduces blemishes, and controls sebum production with the help of niacinamide and zinc."
+          },
+          {
+            "image": "S-SS-2.jpeg",
+            "id": "17",
+            "name": "L'Oréal Paris Revitalift Brightening Serum",
+            "price": "PKR 2500",
+            "description": "A brightening serum that targets dark spots, uneven skin tone, and dullness for radiant skin."
+          },
+          {
+            "image": "S-SS-3.jpeg",
+            "id": "18",
+            "name": "Estée Lauder Advanced Night Repair",
+            "price": "PKR 12000",
+            "description": "A nighttime serum that helps reduce the appearance of fine lines, wrinkles, and dark spots."
+          },
+          {
+            "image": "S-SS-4.jpeg",
+            "id": "19",
+            "name": "Kiehl's Clearly Corrective Dark Spot Solution",
+            "price": "PKR 7500",
+            "description": "A serum formulated to target dark spots and uneven skin tone for a more radiant complexion."
+          },
+          {
+            "image": "S-SS-5.jpeg",
+            "id": "20",
+            "name": "Vichy Minéral 89 Hyaluronic Acid Face Serum",
+            "price": "PKR 6000",
+            "description": "A hydrating serum that strengthens the skin’s barrier and provides intense moisture with hyaluronic acid and volcanic water."
+          }
+        ]
+      },
+      {
+        "category": "Face Masks",
+        "products": [
+          {
+            "image": "S-F-1.jpeg",
+            "id": "21",
+            "name": "GlamGlow Supermud Clearing Treatment",
+            "price": "PKR 8000",
+            "description": "A detoxifying mask that targets pores, acne, and blackheads while leaving the skin clear and smooth."
+          },
+          {
+            "image": "S-F-2.jpeg",
+            "id": "22",
+            "name": "Origins Clear Improvement Active Charcoal Mask",
+            "price": "PKR 4500",
+            "description": "A charcoal mask that draws out impurities, toxins, and pollution from the skin, leaving it clean and clear."
+          },
+          {
+            "image": "S-F-3.jpg  ",
+            "id": "23",
+            "name": "L'Oréal Paris Pure Clay Mask",
+            "price": "PKR 1500",
+            "description": "A purifying mask that uses three types of clay to detoxify and clarify the skin."
+          },
+          {
+            "image": "S-F-4.jpeg",
+            "id": "24",
+            "name": "The Body Shop Himalayan Charcoal Purifying Glow Mask",
+            "price": "PKR 3000",
+            "description": "A purifying face mask that detoxifies and brightens the skin with charcoal and green tea extract."
+          },
+          {
+            "image": "S-F-5.jpeg",
+            "id": "25",
+            "name": "Aztec Secret Indian Healing Clay",
+            "price": "PKR 2000",
+            "description": "A deep pore cleansing mask made from 100% natural calcium bentonite clay that works for all skin types."
+          }
+        ]
+      }
+    ]
+  }
+  

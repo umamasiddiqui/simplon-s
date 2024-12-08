@@ -1,0 +1,204 @@
+{
+  "nail_polishes": [
+    {
+      "category": "Classic Nail Polishes",
+      "products": [
+        {
+          "image": "NP-CL-1.jpeg",
+          "id": "1",
+          "name": "Velvet Red",
+          "price": "PKR 350",
+          "description": "A rich, classic red with a smooth finish, perfect for any occasion."
+        },
+        {
+          "image": "NP-CL-2.jpeg",
+          "id": "2",
+          "name": "Midnight Black",
+          "price": "PKR 350",
+          "description": "A deep, glossy black that provides a chic, edgy look."
+        },
+        {
+          "image": "NP-CL-3.jpeg",
+          "id": "3",
+          "name": "Nude Chic",
+          "price": "PKR 300",
+          "description": "A soft, beige nude that complements all skin tones for an elegant, understated look."
+        },
+        {
+          "image": "NP-CL-4.jpeg",
+          "id": "4",
+          "name": "Bubblegum Pink",
+          "price": "PKR 350",
+          "description": "A bright and playful pink for a fun and youthful vibe."
+        },
+        {
+          "image": "NP-CL-5.jpeg",
+          "id": "5",
+          "name": "Sky Blue",
+          "price": "PKR 350",
+          "description": "A soft and serene blue, ideal for a refreshing, calm style."
+        }
+      ]
+    },
+    {
+      "category": "Gel Nail Polishes",
+      "products": [
+        {
+          "image": "NP-GE-1.jpeg",
+          "id": "6",
+          "name": "Glacier White",
+          "price": "PKR 500",
+          "description": "A sparkling white gel polish with a glossy finish, perfect for a clean and fresh look."
+        },
+        {
+          "image": "NP-GE-2.jpeg",
+          "id": "7",
+          "name": "Candy Coral",
+          "price": "PKR 550",
+          "description": "A vibrant coral shade with a gel finish that lasts longer and provides a smooth application."
+        },
+        {
+          "image": "NP-GE-3.jpeg",
+          "id": "8",
+          "name": "Electric Pink",
+          "price": "PKR 600",
+          "description": "A bright neon pink gel polish that adds a pop of color and stays vibrant for weeks."
+        },
+        {
+          "image": "NP-GE-4.jpeg",
+          "id": "9",
+          "name": "Metallic Gold",
+          "price": "PKR 650",
+          "description": "A bold, shimmering gold gel polish for a glamorous and luxurious finish."
+        },
+        {
+          "image": "NP-GE-5.jpeg",
+          "id": "10",
+          "name": "Mint Green",
+          "price": "PKR 500",
+          "description": "A cool, pastel mint green that brings a refreshing touch to your nails with a gel-like shine."
+        }
+      ]
+    },
+    {
+      "category": "Matte Nail Polishes",
+      "products": [
+        {
+          "image": "NP-M-1.jpeg",
+          "id": "11",
+          "name": "Misty Grey",
+          "price": "PKR 400",
+          "description": "A sleek, neutral grey matte nail polish for a sophisticated and modern look."
+        },
+        {
+          "image": "NP-M-2.jpeg",
+          "id": "12",
+          "name": "Dusky Rose",
+          "price": "PKR 400",
+          "description": "A muted rose pink with a smooth matte finish for an elegant yet bold statement."
+        },
+        {
+          "image": "NP-M-3.jpeg",
+          "id": "13",
+          "name": "Blackout",
+          "price": "PKR 450",
+          "description": "A matte black polish that gives nails a sleek and dramatic look."
+        },
+        {
+          "image": "NP-M-4.jpeg",
+          "id": "14",
+          "name": "Charcoal Slate",
+          "price": "PKR 450",
+          "description": "A deep, dark slate gray in a matte finish, perfect for a chic, understated style."
+        },
+        {
+          "image": "NP-M-5.jpeg",
+          "id": "15",
+          "name": "Peach Delight",
+          "price": "PKR 400",
+          "description": "A soft peach shade with a matte finish for a fresh, elegant look."
+        }
+      ]
+    },
+    {
+      "category": "Glitter Nail Polishes",
+      "products": [
+        {
+          "image": "NP-GL-1.jpeg",
+          "id": "16",
+          "name": "Starry Night",
+          "price": "PKR 450",
+          "description": "A dazzling black glitter polish with tiny silver and gold specks for a starry, night-sky effect."
+        },
+        {
+          "image": "NP-GL-2.jpeg",
+          "id": "17",
+          "name": "Golden Sparkle",
+          "price": "PKR 500",
+          "description": "A shimmering gold glitter polish that adds a touch of luxury to your nails."
+        },
+        {
+          "image": "NP-GL-3.jpeg",
+          "id": "18",
+          "name": "Twilight Purple",
+          "price": "PKR 500",
+          "description": "A glittering purple with hues of pink and blue for a sparkling and dramatic effect."
+        },
+        {
+          "image": "NP-GL-4.jpeg",
+          "id": "19",
+          "name": "Rose Gold Bling",
+          "price": "PKR 550",
+          "description": "A trendy rose gold glitter polish that gives nails a chic, radiant shine."
+        },
+        {
+          "image": "NP-GL-5.jpeg",
+          "id": "20",
+          "name": "Silver Dust",
+          "price": "PKR 450",
+          "description": "A silver glitter polish with a reflective finish that adds sparkle and shine."
+        }
+      ]
+    },
+    {
+      "category": "Crackle Nail Polishes",
+      "products": [
+        {
+          "image": "NP-CR-1.jpeg",
+          "id": "21",
+          "name": "Black Crackle",
+          "price": "PKR 400",
+          "description": "A glossy black polish with a crackle effect that reveals a contrasting layer beneath."
+        },
+        {
+          "image": "NP-CR-2.jpeg",
+          "id": "22",
+          "name": "White Crackle",
+          "price": "PKR 400",
+          "description": "A classic white crackle polish that contrasts beautifully with bold colors underneath."
+        },
+        {
+          "image": "NP-CR-3.jpeg",
+          "id": "23",
+          "name": "Red Crackle",
+          "price": "PKR 450",
+          "description": "A vibrant red crackle polish for a fun, bold look with an edgy finish."
+        },
+        {
+          "image": "NP-CR-4.jpeg",
+          "id": "24",
+          "name": "Blue Crackle",
+          "price": "PKR 450",
+          "description": "A crackle effect in a rich blue hue, perfect for creating a striking contrast."
+        },
+        {
+          "image": "NP-CR-5.jpeg",
+          "id": "25",
+          "name": "Gold Crackle",
+          "price": "PKR 500",
+          "description": "A luxurious gold crackle polish for adding an elegant and unique touch to your nails."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "bridal_kits": [
+    {
+      "category": "Bridal Makeup Kits",
+      "products": [
+        {
+          "image": "W-B-1.jpeg",
+          "id": "1",
+          "name": "Long-Lasting Foundation Set",
+          "price": "PKR 4,500",
+          "description": "A foundation set with shades for different skin tones, providing full coverage and long-lasting wear for a flawless bridal look."
+        },
+        {
+          "image": "W-B-2.jpeg",
+          "id": "2",
+          "name": "Waterproof Mascara & Eyeliner Duo",
+          "price": "PKR 1,800",
+          "description": "A smudge-proof mascara and eyeliner combo that ensures perfect eye makeup even through tears."
+        },
+        {
+          "image": "W-B-3.jpeg",
+          "id": "3",
+          "name": "High-Pigment Lipstick Collection",
+          "price": "PKR 3,200",
+          "description": "A set of rich, high-pigment lipsticks in classic bridal shades for long-lasting color."
+        },
+        {
+          "image": "W-B-4.jpeg",
+          "id": "4",
+          "name": "Full-Coverage Concealer Kit",
+          "price": "PKR 2,000",
+          "description": "A concealer kit that hides imperfections and dark circles for a flawless complexion."
+        },
+        {
+          "image": "W-B-5.jpeg",
+          "id": "5",
+          "name": "Radiant Glow Highlighter Palette",
+          "price": "PKR 2,500",
+          "description": "A palette with multiple highlighter shades to add a radiant glow, perfect for a bride’s big day."
+        }
+      ]
+    },
+    {
+      "category": "Hair Styling Kits",
+      "products": [
+        {
+          "image": "W-H-1.jpeg",
+          "id": "6",
+          "name": "Bridal Hair Accessory Set",
+          "price": "PKR 1,200",
+          "description": "Includes bridal hairpins, combs, and clips adorned with crystals and pearls to complete the wedding hairstyle."
+        },
+        {
+          "image": "W-H-2.jpeg",
+          "id": "7",
+          "name": "Ceramic Curling Iron Set",
+          "price": "PKR 3,500",
+          "description": "A ceramic curling iron for smooth, bouncy curls that last throughout the event."
+        },
+        {
+          "image": "W-H-3.jpeg",
+          "id": "8",
+          "name": "Bridal Hair Pin Collection",
+          "price": "PKR 1,000",
+          "description": "A collection of elegant hairpins with floral and crystal designs to add sparkle to any bridal hairstyle."
+        },
+        {
+          "image": "W-H-4.jpeg",
+          "id": "9",
+          "name": "Heat Protection Spray & Serum Duo",
+          "price": "PKR 1,500",
+          "description": "A spray and serum set that protects hair from heat damage while adding shine and softness."
+        },
+        {
+          "image": "W-H-5.jpeg",
+          "id": "10",
+          "name": "Classic Bridal Veil & Tiara Kit",
+          "price": "PKR 2,800",
+          "description": "A traditional bridal veil and tiara combo, adding a royal touch to the wedding outfit."
+        }
+      ]
+    },
+    {
+      "category": "Jewelry Sets",
+      "products": [
+        {
+          "image": "W-J-1.jpeg",
+          "id": "11",
+          "name": "Gold & Diamond Bridal Necklace Set",
+          "price": "PKR 20,000",
+          "description": "A luxurious necklace set with gold and diamond accents, perfect for a traditional bridal look."
+        },
+        {
+          "image": "W-J-2.jpeg",
+          "id": "12",
+          "name": "Pearl Drop Earring Set",
+          "price": "PKR 3,000",
+          "description": "Elegant pearl drop earrings to complement any bridal outfit with grace."
+        },
+        {
+          "image": "W-J-3.jpeg",
+          "id": "13",
+          "name": "Traditional Kundan Bridal Set",
+          "price": "PKR 15,000",
+          "description": "A traditional Kundan set including necklace, earrings, and tikka, ideal for South Asian weddings."
+        },
+        {
+          "image": "W-J-4.jpeg",
+          "id": "14",
+          "name": "Crystal Bangle Set",
+          "price": "PKR 2,500",
+          "description": "A set of shimmering crystal bangles to add sparkle to the bride’s wrists."
+        },
+        {
+          "image": "W-J-5.jpeg",
+          "id": "15",
+          "name": "Antique Gold Anklet Pair",
+          "price": "PKR 3,500",
+          "description": "An antique gold anklet pair with intricate designs, adding elegance to the bridal ensemble."
+        }
+      ]
+    },
+    {
+      "category": "Skincare Prep Kits",
+      "products": [
+        {
+          "image": "W-S-1.jpg",
+          "id": "16",
+          "name": "Hydrating Face Mask Pack",
+          "price": "PKR 1,200",
+          "description": "A pack of hydrating face masks to deeply moisturize and prep the skin for a smooth makeup application."
+        },
+        {
+          "image": "W-S-2.jpeg",
+          "id": "17",
+          "name": "Exfoliating Scrub & Cleanser Duo",
+          "price": "PKR 800",
+          "description": "An exfoliating scrub and gentle cleanser to remove impurities and reveal glowing skin."
+        },
+        {
+          "image": "W-S-3.jpeg",
+          "id": "18",
+          "name": "Brightening Serum Set",
+          "price": "PKR 2,500",
+          "description": "A brightening serum set designed to give the bride a natural, luminous glow."
+        },
+        {
+          "image": "W-S-4.jpeg",
+          "id": "19",
+          "name": "Bridal Glow Moisturizer Kit",
+          "price": "PKR 1,500",
+          "description": "A special moisturizer kit to keep the skin hydrated and radiant for the big day."
+        },
+        {
+          "image": "W-S-5.jpeg",
+          "id": "20",
+          "name": "Anti-Aging Eye Cream Set",
+          "price": "PKR 1,800",
+          "description": "An eye cream set to reduce puffiness and dark circles, ensuring fresh, youthful eyes."
+        }
+      ]
+    },
+    {
+      "category": "Nail Care Kits",
+      "products": [
+        {
+          "image": "W-N-1.jpeg",
+          "id": "21",
+          "name": "Gel Manicure Starter Kit",
+          "price": "PKR 3,200",
+          "description": "A complete gel manicure kit with UV light, gel polish, and tools for long-lasting nails."
+        },
+        {
+          "image": "W-N-2.jpeg",
+          "id": "22",
+          "name": "French Manicure Kit",
+          "price": "PKR 1,500",
+          "description": "A classic French manicure kit with all essentials for a clean, elegant nail look."
+        },
+        {
+          "image": "W-N-3.jpeg",
+          "id": "23",
+          "name": "Bridal Glitter Nail Polish Set",
+          "price": "PKR 1,200",
+          "description": "A set of glitter nail polishes to add sparkle to the bride’s hands."
+        },
+        {
+          "image": "W-N-4.jpeg",
+          "id": "24",
+          "name": "Nail Strengthening Treatment Pack",
+          "price": "PKR 1,000",
+          "description": "A nail treatment pack that strengthens nails and prevents breakage, ideal for pre-wedding care."
+        },
+        {
+          "image": "W-N-5.jpeg",
+          "id": "25",
+          "name": "Deluxe Nail Art & Accessories Set",
+          "price": "PKR 1,800",
+          "description": "A nail art set with rhinestones, stickers, and brushes to create custom bridal nail art."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+.category-Name h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;    
+    color: #eb8c3e;
+    font-weight: bold;
+    font-family: "Acme", sans-serif;
+                                         
+
+}
+
+/* Card layout */
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; /* Distributes space between elements */
+    height: 100%; /* Ensures all cards have equal height */
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Image styling */
+.card-img-top {
+    height: 200px; /* Adjust as needed */
+    object-fit:contain;
+    width: 100%;
+    margin: 10%;
+}
+
+/* Card body styling */
+.card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Makes body fill available space */
+    padding: 16px;
+}
+
+/* Title and price in a row */
+.card-title-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+.card-price{
+    color: #000;
+}
+.card-description {
+    flex-grow: 1; /* Allows description to fill remaining space */
+    color: #555;
+    font-size: 0.9em;
+    margin-top: 8px;
+}
+
+/* Add to Cart button aligned at the bottom */
+.add-to-cart-btn {
+    background-color:  #e7772d;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 4px;
+    margin-top: 16px;
+    transition: background-color 0.3s;
+}
+
+.add-to-cart-btn:hover {
+    background-color: #eb5b42;
+}
+.row {
+    margin: 100px;
+    justify-content: center;
+ 
+}
+.product-type{
+    color: #eb8c3e;
+    background-color: #55555500;
+}
+.product-card {
+    flex: 1 1 calc(33.33% - 1rem); /* Each card takes about 1/3 of the row with spacing */
+    max-width: calc(33.33% - 1rem);
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+}
+
+.card-title-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add-to-cart-btn {
+    margin-top: 10px;
+    width: 100%;
+}
+
+

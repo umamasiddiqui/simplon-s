@@ -1,0 +1,60 @@
+.send-button{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #f3974c;
+    color: white;
+    font-size: 20px;
+    border-radius: 2px;
+    transition: 0.3s;
+    font-family: "Acme", sans-serif;
+}
+.send-button:hover{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #e7772d;
+    color: white;
+    font-size: 20px;
+    border-radius: 2px;
+    transform: scale(101%);
+}
+.send-button:active{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #eb5b42;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 2px;
+}
+#message{
+    resize: none;
+}
+#need-help{
+    color: #eb8c3e;
+    font-weight: bold;
+    font-family: "Acme", sans-serif;
+}
+.contact-info .col-4 {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .contact-info i {
+    font-size: 50px;
+    margin-bottom: 8px;
+    color: #eba141; /* Adjust to your theme color */
+  }
+  .contact-info p {
+    font-size: 1rem;
+    color: #333;
+    font-family: "Creepster", system-ui;
+  }
+ #submit-cont-form{
+    background: #ffffff57;
+    padding: 20px;
+    border-radius: 20px;
+ } 

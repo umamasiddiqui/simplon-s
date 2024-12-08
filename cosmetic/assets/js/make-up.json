@@ -1,0 +1,204 @@
+{
+  "makeup_products": [
+      {
+          "category": "Face Makeup Kits",
+          "products": [
+              {
+                  "image": "M-F-1.jpeg",
+                  "id": "1",
+                  "name": "Foundation Kit",
+                  "price": "PKR 1,200",
+                  "description": "A complete foundation kit with multiple shades to match various skin tones. Ideal for creating a flawless base."
+              },
+              {
+                  "image": "M-F-2.jpeg",
+                  "id": "2",
+                  "name": "Concealer Set",
+                  "price": "PKR 950",
+                  "description": "A set of creamy concealers for hiding dark circles, blemishes, and imperfections."
+              },
+              {
+                  "image": "M-F-3.jpeg",
+                  "id": "3",
+                  "name": "Contour Palette",
+                  "price": "PKR 1,500",
+                  "description": "A palette with sculpting shades to define and highlight the face, providing a natural, chiseled look."
+              },
+              {
+                  "image": "M-F-4.jpeg",
+                  "id": "4",
+                  "name": "Blush Kit",
+                  "price": "PKR 1,100",
+                  "description": "A set of blushes in various shades to add a healthy flush to the cheeks, giving a natural and radiant glow."
+              },
+              {
+                  "image": "M-F-5.jpeg",
+                  "id": "5",
+                  "name": "Setting Powder Set",
+                  "price": "PKR 1,300",
+                  "description": "A translucent setting powder that helps lock makeup in place for long-lasting wear."
+              }
+          ]
+      },
+      {
+          "category": "Eye Makeup Kits",
+          "products": [
+              {
+                  "image": "M-E-1.jpeg",
+                  "id": "6",
+                  "name": "Eyeshadow Palette",
+                  "price": "PKR 1,800",
+                  "description": "A colorful palette of matte and shimmer eyeshadows for creating versatile eye looks."
+              },
+              {
+                  "image": "M-E-2.jpeg",
+                  "id": "7",
+                  "name": "Eyeliner Set",
+                  "price": "PKR 900",
+                  "description": "A set of eyeliners in various finishes (gel, pencil, liquid) to define and accentuate the eyes."
+              },
+              {
+                  "image": "M-E-3.jpg",
+                  "id": "8",
+                  "name": "Mascara Kit",
+                  "price": "PKR 1,000",
+                  "description": "A mascara set for adding volume, length, and curl to lashes, giving them a fuller and longer look."
+              },
+              {
+                  "image": "M-E-4.jpeg",
+                  "id": "9",
+                  "name": "Brow Definer Kit",
+                  "price": "PKR 1,200",
+                  "description": "A brow kit with pencils and powders for shaping and filling in the brows for a natural yet defined look."
+              },
+              {
+                  "image": "M-E-5.jpeg",
+                  "id": "10",
+                  "name": "False Lashes Set",
+                  "price": "PKR 750",
+                  "description": "A set of false lashes with varying lengths and volumes to enhance the natural lashes for dramatic looks."
+              }
+          ]
+      },
+      {
+          "category": "Lip Makeup Kits",
+          "products": [
+              {
+                  "image": "M-L-1.jpeg",
+                  "id": "11",
+                  "name": "Lipstick Set",
+                  "price": "PKR 1,200",
+                  "description": "A collection of lipsticks in vibrant shades, from nudes to bold reds, offering long-lasting wear."
+              },
+              {
+                  "image": "M-L-2.jpeg",
+                  "id": "12",
+                  "name": "Lip Gloss Collection",
+                  "price": "PKR 950",
+                  "description": "A set of lip glosses for adding shine and a hint of color to the lips."
+              },
+              {
+                  "image": "M-L-3.jpeg",
+                  "id": "13",
+                  "name": "Lip Liner Set",
+                  "price": "PKR 850",
+                  "description": "A set of lip liners to define and shape the lips, preventing lipstick from feathering."
+              },
+              {
+                  "image": "M-L-4.jpeg",
+                  "id": "14",
+                  "name": "Lip Balm Kit",
+                  "price": "PKR 600",
+                  "description": "A nourishing lip balm set to keep lips soft, hydrated, and smooth."
+              },
+              {
+                  "image": "M-L-5.jpeg",
+                  "id": "15",
+                  "name": "Lip Tint Set",
+                  "price": "PKR 1,000",
+                  "description": "A collection of lip tints that provide a natural, long-lasting color to the lips."
+              }
+          ]
+      },
+      {
+          "category": "Nail Makeup Kits",
+          "products": [
+              {
+                  "image": "M-N-1.jpeg",
+                  "id": "16",
+                  "name": "Nail Polish Set",
+                  "price": "PKR 800",
+                  "description": "A set of high-quality nail polishes in various shades for every occasion."
+              },
+              {
+                  "image": "M-N-2.jpeg",
+                  "id": "17",
+                  "name": "Gel Manicure Kit",
+                  "price": "PKR 2,000",
+                  "description": "A complete gel manicure kit with long-lasting color and shine."
+              },
+              {
+                  "image": "M-N-3.jpeg",
+                  "id": "18",
+                  "name": "Nail Art Kit",
+                  "price": "PKR 1,500",
+                  "description": "A set of tools and accessories for creating unique and artistic nail designs."
+              },
+              {
+                  "image": "M-N-4.jpeg",
+                  "id": "19",
+                  "name": "Nail Care Set",
+                  "price": "PKR 900",
+                  "description": "A kit with essential nail care products like cuticle oil, nail cream, and file to maintain healthy nails."
+              },
+              {
+                  "image": "M-N-5.jpg",
+                  "id": "20",
+                  "name": "Nail Strengthening Kit",
+                  "price": "PKR 1,200",
+                  "description": "A set of treatments designed to strengthen weak and brittle nails, helping them grow longer and healthier."
+              }
+          ]
+      },
+      {
+          "category": "Makeup Brushes & Tools",
+          "products": [
+              {
+                  "image": "M-B-1.jpeg",
+                  "id": "21",
+                  "name": "Foundation Brush Set",
+                  "price": "PKR 1,500",
+                  "description": "A set of brushes specifically designed for smooth and even foundation application."
+              },
+              {
+                  "image": "M-B-3.jpeg",
+                  "id": "22",
+                  "name": "Eyeshadow Brush Kit",
+                  "price": "PKR 1,200",
+                  "description": "A kit of brushes for applying and blending eyeshadow seamlessly, ensuring a flawless eye makeup look."
+              },
+              {
+                  "image": "M-B-3.jpeg",
+                  "id": "23",
+                  "name": "Blush Brush Set",
+                  "price": "PKR 1,000",
+                  "description": "A set of brushes for applying blush, bronzer, and highlighter for a radiant finish."
+              },
+              {
+                  "image": "M-B-4.jpeg",
+                  "id": "24",
+                  "name": "Beauty Sponge Set",
+                  "price": "PKR 800",
+                  "description": "A set of makeup sponges for blending foundation and concealer to create a flawless base."
+              },
+              {
+                  "image": "M-B-5.jpeg",
+                  "id": "25",
+                  "name": "Makeup Remover Wipes Kit",
+                  "price": "PKR 600",
+                  "description": "A set of gentle, cleansing wipes to remove makeup, dirt, and oil from the skin."
+              }
+          ]
+      }
+  ]
+}

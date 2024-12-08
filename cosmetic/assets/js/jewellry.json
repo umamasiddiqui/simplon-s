@@ -1,0 +1,204 @@
+{
+  "jewelry_products": [
+    {
+      "category": "Necklaces",
+      "products": [
+        {
+          "image": "J-N-1.jpg",
+          "id": "1",
+          "name": "Crystal Pendant Necklace",
+          "price": "PKR 1,200",
+          "description": "A delicate crystal pendant on a silver chain, perfect for adding elegance to any outfit."
+        },
+        {
+          "image": "J-N-2.jpg",
+          "id": "2",
+          "name": "Pearl Choker Necklace",
+          "price": "PKR 1,800",
+          "description": "A classic pearl choker with smooth, luminous pearls that add a timeless touch to your style."
+        },
+        {
+          "image": "J-N-3.jpg",
+          "id": "3",
+          "name": "Gold Layered Necklace",
+          "price": "PKR 2,500",
+          "description": "A trendy, layered gold necklace that combines multiple chains of varying lengths for a chic look."
+        },
+        {
+          "image": "J-N-4.jpg",
+          "id": "4",
+          "name": "Silver Infinity Pendant",
+          "price": "PKR 1,000",
+          "description": "A silver infinity pendant symbolizing endless love and friendship, on a durable chain."
+        },
+        {
+          "image": "J-N-5.png",
+          "id": "5",
+          "name": "Vintage Locket Necklace",
+          "price": "PKR 1,500",
+          "description": "A vintage-inspired locket necklace to hold cherished memories, with intricate details on the locket."
+        }
+      ]
+    },
+    {
+      "category": "Earrings",
+      "products": [
+        {
+          "image": "J-E-1.jpg",
+          "id": "6",
+          "name": "Diamond Stud Earrings",
+          "price": "PKR 3,000",
+          "description": "Elegant diamond studs with a sparkling finish, ideal for adding a subtle touch of glamour."
+        },
+        {
+          "image": "J-E-2.jpg",
+          "id": "7",
+          "name": "Pearl Drop Earrings",
+          "price": "PKR 1,200",
+          "description": "Classic pearl earrings that dangle gracefully, perfect for both formal and casual occasions."
+        },
+        {
+          "image": "J-E-3.jpg",
+          "id": "8",
+          "name": "Gold Hoop Earrings",
+          "price": "PKR 1,500",
+          "description": "Simple and versatile gold hoops, a must-have for any jewelry collection."
+        },
+        {
+          "image": "J-E-4.jpg",
+          "id": "9",
+          "name": "Crystal Cluster Earrings",
+          "price": "PKR 2,000",
+          "description": "Dazzling crystal cluster earrings for a statement look, suitable for special occasions."
+        },
+        {
+          "image": "J-E-5.png",
+          "id": "10",
+          "name": "Tassel Dangle Earrings",
+          "price": "PKR 800",
+          "description": "Fun and colorful tassel earrings that add a bohemian vibe to your outfit."
+        }
+      ]
+    },
+    {
+      "category": "Bracelets",
+      "products": [
+        {
+          "image": "J-B-1.jpg",
+          "id": "11",
+          "name": "Charm Bracelet",
+          "price": "PKR 1,200",
+          "description": "A customizable charm bracelet with various charms to add a personal touch."
+        },
+        {
+          "image": "J-B-2.jpg",
+          "id": "12",
+          "name": "Gold Bangle Set",
+          "price": "PKR 1,800",
+          "description": "A set of elegant gold bangles that can be worn individually or stacked for a layered look."
+        },
+        {
+          "image": "J-B-3.jpg",
+          "id": "13",
+          "name": "Beaded Friendship Bracelet",
+          "price": "PKR 500",
+          "description": "A handmade beaded bracelet to celebrate friendship, available in various colors."
+        },
+        {
+          "image": "J-B-4.jpg",
+          "id": "14",
+          "name": "Leather Wrap Bracelet",
+          "price": "PKR 1,000",
+          "description": "A stylish leather wrap bracelet with metal accents, perfect for a casual look."
+        },
+        {
+          "image": "J-B-5.jpg",
+          "id": "15",
+          "name": "Cuff Bracelet",
+          "price": "PKR 1,400",
+          "description": "A sleek cuff bracelet in silver, adjustable to fit comfortably on any wrist."
+        }
+      ]
+    },
+    {
+      "category": "Rings",
+      "products": [
+        {
+          "image": "J-R-1.jpg",
+          "id": "16",
+          "name": "Solitaire Diamond Ring",
+          "price": "PKR 5,000",
+          "description": "A classic solitaire diamond ring, symbolizing elegance and sophistication."
+        },
+        {
+          "image": "J-R-2.jpg",
+          "id": "17",
+          "name": "Stackable Gold Rings",
+          "price": "PKR 2,200",
+          "description": "A set of thin, stackable gold rings for creating a trendy layered look."
+        },
+        {
+          "image": "J-R-3.jpg",
+          "id": "18",
+          "name": "Birthstone Ring",
+          "price": "PKR 1,500",
+          "description": "A ring featuring a birthstone of your choice, perfect for personalization."
+        },
+        {
+          "image": "J-R-4.jpg",
+          "id": "19",
+          "name": "Infinity Band Ring",
+          "price": "PKR 1,200",
+          "description": "A beautiful infinity design ring representing eternal love and friendship."
+        },
+        {
+          "image": "J-R-5.jpg",
+          "id": "20",
+          "name": "Floral Silver Ring",
+          "price": "PKR 1,000",
+          "description": "A delicate silver ring with a floral design, ideal for adding a feminine touch."
+        }
+      ]
+    },
+    {
+      "category": "Anklets",
+      "products": [
+        {
+          "image": "J-A-1.jpg",
+          "id": "21",
+          "name": "Shell Beach Anklet",
+          "price": "PKR 700",
+          "description": "A beach-inspired anklet adorned with small seashells, perfect for a summer look."
+        },
+        {
+          "image": "J-A-2.jpg",
+          "id": "22",
+          "name": "Gold Chain Anklet",
+          "price": "PKR 1,000",
+          "description": "A simple gold chain anklet that adds elegance and style to any outfit."
+        },
+        {
+          "image": "J-A-3.jpg",
+          "id": "23",
+          "name": "Beaded Ankle Bracelet",
+          "price": "PKR 600",
+          "description": "A colorful beaded anklet to add a boho touch to your style."
+        },
+        {
+          "image": "J-A-4.jpg",
+          "id": "24",
+          "name": "Heart Charm Anklet",
+          "price": "PKR 800",
+          "description": "A cute anklet with a small heart charm for a sweet and romantic look."
+        },
+        {
+          "image": "J-A-5.jpg",
+          "id": "25",
+          "name": "Silver Infinity Anklet",
+          "price": "PKR 900",
+          "description": "A silver infinity anklet symbolizing endless love and friendship."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "nail_art_products": [
+    {
+      "category": "Nail Art Kits",
+      "products": [
+        {
+          "image": "NA-A-1.jpeg",
+          "id": "1",
+          "name": "Glitter Nail Art Kit",
+          "price": "PKR 800",
+          "description": "A set containing various colored glitters and tools to create sparkly and glamorous nail art designs."
+        },
+        {
+          "image": "NA-A-2.jpg",
+          "id": "2",
+          "name": "3D Nail Art Set",
+          "price": "PKR 1,200",
+          "description": "A collection of 3D embellishments such as flowers, bows, and beads for adding dimension to your nails."
+        },
+        {
+          "image": "NA-A-3.jpeg",
+          "id": "3",
+          "name": "Floral Nail Art Kit",
+          "price": "PKR 1,000",
+          "description": "A kit with floral designs and tools to create intricate, nature-inspired nail art."
+        },
+        {
+          "image": "NA-A-4.jpg",
+          "id": "4",
+          "name": "Gems & Stones Nail Art Kit",
+          "price": "PKR 1,500",
+          "description": "A set of colorful gems, rhinestones, and small stones to decorate nails and create a glamorous, jeweled look."
+        },
+        {
+          "image": "NA-A-5.jpeg",
+          "id": "5",
+          "name": "French Tip Nail Art Kit",
+          "price": "PKR 600",
+          "description": "A kit with all the tools and stickers needed to create classic French tip nails with precision."
+        }
+      ]
+    },
+    {
+      "category": "Nail Stamps & Stencils",
+      "products": [
+        {
+          "image": "NA-S-1.jpeg",
+          "id": "6",
+          "name": "Floral Stamping Plate",
+          "price": "PKR 700",
+          "description": "A stamping plate with delicate floral patterns for creating elegant, floral nail designs."
+        },
+        {
+          "image": "NA-S-2.jpeg",
+          "id": "7",
+          "name": "Geometric Nail Stamps",
+          "price": "PKR 800",
+          "description": "A stamping plate featuring geometric patterns such as stripes, squares, and triangles for bold designs."
+        },
+        {
+          "image": "NA-S-3.jpeg",
+          "id": "8",
+          "name": "Animal Print Stencil Set",
+          "price": "PKR 850",
+          "description": "A set of stencils with various animal print designs like leopard, zebra, and snake for a wild look."
+        },
+        {
+          "image": "NA-S-4.jpeg",
+          "id": "9",
+          "name": "Vintage Nail Stamps",
+          "price": "PKR 900",
+          "description": "A set of vintage-inspired stamps with designs like lace, swirls, and Victorian motifs."
+        },
+        {
+          "image": "NA-S-5.jpeg",
+          "id": "10",
+          "name": "Starry Sky Stamping Set",
+          "price": "PKR 750",
+          "description": "A stamping plate with star and moon designs to create celestial-inspired nail art."
+        }
+      ]
+    },
+    {
+      "category": "Nail Stickers & Decals",
+      "products": [
+        {
+          "image": "NA-SD-1.jpeg",
+          "id": "11",
+          "name": "Metallic Nail Stickers",
+          "price": "PKR 450",
+          "description": "Stickers in metallic finishes such as gold and silver to create stylish and eye-catching designs."
+        },
+        {
+          "image": "NA-SD-2.jpeg",
+          "id": "12",
+          "name": "Animal Print Nail Decals",
+          "price": "PKR 500",
+          "description": "Nail decals with various animal print designs, perfect for a bold, wild look."
+        },
+        {
+          "image": "NA-SD-3.jpeg",
+          "id": "13",
+          "name": "Water Transfer Nail Stickers",
+          "price": "PKR 350",
+          "description": "Stickers that transfer effortlessly onto nails when dipped in water, with designs ranging from flowers to abstract art."
+        },
+        {
+          "image": "NA-SD-4.jpeg",
+          "id": "14",
+          "name": "Abstract Nail Decals",
+          "price": "PKR 400",
+          "description": "A set of nail decals featuring abstract patterns and artistic designs."
+        },
+        {
+          "image": "NA-SD-5.jpeg",
+          "id": "15",
+          "name": "Flower Nail Stickers",
+          "price": "PKR 300",
+          "description": "Cute and colorful flower-themed stickers for adding a floral touch to your nails."
+        }
+      ]
+    },
+    {
+      "category": "Nail Painting Brushes & Tools",
+      "products": [
+        {
+          "image": "NA-P-1.jpeg",
+          "id": "16",
+          "name": "Detail Nail Art Brush Set",
+          "price": "PKR 650",
+          "description": "A set of fine-tipped brushes for creating intricate and detailed nail art designs."
+        },
+        {
+          "image": "NA-P-2.jpeg",
+          "id": "17",
+          "name": "Dotting Tool Kit",
+          "price": "PKR 500",
+          "description": "A kit with various-sized dotting tools for creating dots, flowers, and patterns on nails."
+        },
+        {
+          "image": "NA-P-3.jpeg",
+          "id": "18",
+          "name": "Striper Brush Set",
+          "price": "PKR 600",
+          "description": "A set of long, thin brushes for creating thin stripes and lines for detailed nail art."
+        },
+        {
+          "image": "NA-P-4.jpeg",
+          "id": "19",
+          "name": "Fan Brush for Nail Art",
+          "price": "PKR 450",
+          "description": "A fan-shaped brush for creating texture effects like gradient or feathered nail art."
+        },
+        {
+          "image": "NA-P-5.jpeg",
+          "id": "20",
+          "name": "Fan Nail Art Stencil",
+          "price": "PKR 550",
+          "description": "A stencil tool for creating artistic fan-like patterns on nails."
+        }
+      ]
+    },
+    {
+      "category": "Nail Foils & Chrome",
+      "products": [
+        {
+          "image": "NA-F-1.jpeg",
+          "id": "21",
+          "name": "Holographic Nail Foil",
+          "price": "PKR 700",
+          "description": "A holographic nail foil that gives a dazzling, multi-dimensional shine to nails."
+        },
+        {
+          "image": "NA-F-2.jpeg",
+          "id": "22",
+          "name": "Mirror Chrome Powder",
+          "price": "PKR 900",
+          "description": "A chrome powder for creating a mirror-like shine on nails with a futuristic effect."
+        },
+        {
+          "image": "NA-F-3.jpeg",
+          "id": "23",
+          "name": "Gold Foil for Nails",
+          "price": "PKR 600",
+          "description": "A set of gold leaf foils for adding a luxurious gold finish to your nails."
+        },
+        {
+          "image": "NA-F-4.jpeg",
+          "id": "24",
+          "name": "Silver Chrome Powder",
+          "price": "PKR 800",
+          "description": "A silver chrome powder that gives nails a sleek, metallic shine."
+        },
+        {
+          "image": "NA-F-5.jpeg",
+          "id": "25",
+          "name": "Rainbow Nail Foil",
+          "price": "PKR 750",
+          "description": "A rainbow-colored foil for creating vibrant, multi-colored effects on your nails."
+        }
+      ]
+    }
+  ]
+}

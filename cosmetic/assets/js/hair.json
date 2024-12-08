@@ -1,0 +1,205 @@
+{
+    "hair_products": [
+      {
+        "category": "Shampoos",
+        "products": [
+          {
+            "imag":"H-S-1.jpeg",
+            "id":"1",
+            "name": "Head & Shoulders - Anti-Dandruff Shampoo",
+            "price": "PKR 800",
+            "description": "Removes dandruff and relieves scalp irritation with a gentle, effective formula."
+          },
+          {
+            "imag":"H-S-2.jpeg",
+            "id":"2",
+            "name": "Pantene - Pro-V Daily Moisture Renewal Shampoo",
+            "price": "PKR 650",
+            "description": "Restores moisture to dry hair, leaving it soft, shiny, and manageable."
+          },
+          {
+            "imag":"H-S-3.jpeg",
+            "id":"3",
+            "name": "OGX - Coconut Milk Shampoo",
+            "price": "PKR 1400",
+            "description": "Enriched with coconut milk for added hydration, giving a healthy shine to hair."
+          },
+          {
+            "imag":"H-S-4.jpeg",
+            "id":"4",
+            "name": "L'Oréal Paris - EverPure Sulfate-Free Moisture Shampoo",
+            "price": "PKR 1,500",
+            "description": "Sulfate-free formula ideal for color-treated hair, deeply hydrating for long-lasting color."
+          },
+          {
+            "imag":"H-S-5.jpg",
+            "id":"5",
+            "name": "Aussie - Miracle Moist Shampoo",
+            "price": "PKR 1,200",
+            "description": "Helps repair and hydrate dry, damaged hair with Australian macadamia oil."
+          }
+        ]
+      },
+      {
+        "category": "Conditioners",
+        "products": [
+          {
+            "imag":"H-C-1.jpeg",
+            "id":"6",
+            "name": "Tresemmé - Moisture Rich Conditioner",
+            "price": "PKR 600",
+            "description": "Restores moisture to parched hair, leaving it soft, shiny, and full of life."
+          },
+          {
+            "imag":"H-C-2.jpeg",
+            "id":"7",
+            "name": "Dove - Intensive Repair Conditioner",
+            "price": "PKR 550",
+            "description": "Helps repair damaged hair and prevent future damage with Nutri-Keratin Repair Actives."
+          },
+          {
+            "imag":"H-C-3.jpeg",
+            "id":"8",
+            "name": "Moroccanoil - Hydrating Conditioner",
+            "price": "PKR 2,800",
+            "description": "Infused with argan oil for hydration and shine, leaving hair smooth and manageable."
+          },
+          {
+            "imag":"H-C-4.jpg",
+            "id":"9",
+            "name": "SheaMoisture - Raw Shea Butter Restorative Conditioner",
+            "price": "PKR 2,000",
+            "description": "Deeply moisturizing conditioner with natural ingredients like shea butter and sea kelp."
+          },
+          {
+            "imag":"H-C-5.jpeg",
+            "id":"10",
+            "name": "Biolage - Ultra Hydrasource Conditioner",
+            "price": "PKR 2,500",
+            "description": "Ultra-hydrating conditioner for very dry hair, inspired by the moisture-retaining aloe plant."
+          }
+        ]
+      },
+      {
+        "category": "Hair Oils",
+        "products": [
+          {
+            "imag":"H-HO-1.jpeg",
+            "id":"11",
+            "name": "Moroccanoil - Treatment Oil",
+            "price": "PKR 3,000",
+            "description": "Nourishing hair treatment with argan oil, promoting shine and reducing frizz."
+          },
+          {
+            "imag":"H-HO-2.jpeg",
+            "id":"12",
+            "name": "OGX - Renewing + Argan Oil of Morocco",
+            "price": "PKR 1,500",
+            "description": "Lightweight oil that helps strengthen and moisturize hair for a sleek finish."
+          },
+          {
+            "imag":"H-HO-3.jpeg",
+            "id":"13",
+            "name": "Kerastase - Elixir Ultime Oil Serum",
+            "price": "PKR 5,000",
+            "description": "Luxurious oil blend that adds softness, strength, and shine to all hair types."
+          },
+          {
+            "imag":"H-HO-4.jpeg",
+            "id":"14",
+            "name": "The Body Shop - Grapeseed Glossing Serum",
+            "price": "PKR 2,000",
+            "description": "Smooths frizz and adds gloss with a lightweight formula enriched with grapeseed oil."
+          },
+          {
+            "imag":"H-HO-5.jpeg",
+            "id":"15",
+            "name": "Briogeo - Strengthening Treatment Oil",
+            "price": "PKR 5,500",
+            "description": "Restores strength to weak hair with a blend of natural oils and vitamins."
+          }
+        ]
+      },
+      {
+        "category": "Hair Colors",
+        "products": [
+          {
+            "imag":"H-HC-1.jpg",
+            "id":"41",
+            "name": "L'Oréal Paris - Excellence Creme Hair Color",
+            "price": "PKR 900",
+            "description": "Offers long-lasting color and gray coverage with a protective formula."
+          },
+          {
+            "imag":"H-HC-2.jpg",
+            "id":"42",
+            "name": "Garnier - Nutrisse Nourishing Color Creme",
+            "price": "PKR 750",
+            "description": "Enriched with fruit oils, providing vibrant color and nourishing care."
+          },
+          {
+            "imag":"H-HC-3.jpeg",
+            "id":"43",
+            "name": "Clairol - Nice'n Easy Permanent Hair Color",
+            "price": "PKR 850",
+            "description": "Permanent color with a blend of tones for a natural-looking result."
+          },
+          {
+            "imag":"H-HC-4.jpeg",
+            "id":"44",
+            "name": "Revlon - Colorsilk Beautiful Color",
+            "price": "PKR 700",
+            "description": "Ammonia-free hair color with 3D color technology, providing multi-dimensional color."
+          },
+          {
+            "imag":"H-HC-5.jpeg",
+            "id":"45",
+            "name": "Schwarzkopf - Keratin Color",
+            "price": "PKR 1,100",
+            "description": "Provides deep color and strengthens hair with keratin for a soft, smooth finish."
+          }
+        ]
+      },
+      {
+        "category": "Hair Brushes & Combs",
+        "products": [
+          {
+            "imag":"H-HB-1.jpeg",
+            "id":"46",
+            "name": "Wet Brush - Original Detangler Hair Brush",
+            "price": "PKR 1,000",
+            "description": "Detangles hair gently, minimizing breakage and suitable for all hair types."
+          },
+          {
+            "imag":"H-HB-2.jpeg",
+            "id":"47",
+            "name": "Tangle Teezer - The Ultimate Detangler",
+            "price": "PKR 1,800",
+            "description": "Ergonomically designed brush that effortlessly removes knots and tangles."
+          },
+          {
+            "imag":"H-HB-3.jpg",
+            "id":"48",
+            "name": "Mason Pearson - Handy Mixture Bristle Hair Brush",
+            "price": "PKR 12,000",
+            "description": "Luxurious bristle brush that distributes natural oils, adding shine to hair."
+          },
+          {
+            "imag":"H-HB-4.jpg",
+            "id":"49",
+            "name": "Denman - Classic Styling Brush",
+            "price": "PKR 1,500",
+            "description": "Ideal for styling and blow-drying, with anti-static rubber for grip and control."
+          },
+          {
+            "imag":"H-HB-5.jpg",
+            "id":"50",
+            "name": "Conair - Velvet Touch Paddle Brush",
+            "price": "PKR 800",
+            "description": "Large paddle brush with velvet touch handle, perfect for detangling long hair."
+          }
+        ]
+       }
+    ]
+  }
+  

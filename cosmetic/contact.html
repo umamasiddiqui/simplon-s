@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=0, initial-scale=1.0">
+    <title>Simplons-Beauty-Care</title>
+    <!-- css-files-link -->
+     <link rel="stylesheet" href="assets/styling/contact.css">
+     <link rel="stylesheet" href="assets/styling/home.css">
+    <link rel="stylesheet" href="assets/styling/navbar.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- css-files-link -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- cdn-font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- cdn-font-awesome -->
+     <!-- goodle-fonts -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Acme&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+     <!-- goodle-fonts -->
+</head>
+<body>
+    <nav></nav>
+    <header class="sticky-top"></header>
+    <!-- Contact 6 - Bootstrap Brain Component -->
+    <section class="py-3 py-md-5 py-xl-8">
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
+                    <h2 id="need-help" class="mb-4 display-5 text-center">Need  Help</h2>
+                    <p class="text-secondary mb-5 text-center lead fs-4">
+                        Our team is available to provide prompt and helpful responses to all inquiries. You can reach us via phone, email, or by filling out the contact form below.
+                    </p>
+                    <hr class="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row d-flex">
+                <!-- Left Column (Map) -->
+                <div class="col-12 col-lg-6 p-0 d-flex align-items-center">
+                    <div class="map-container w-100 mt-4" style="height: 450px; border-right: 1px solid #ddd;">
+                        <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d904.7079774320438!2d67.20526405726667!3d24.903714592945473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb337007d3ec103%3A0x574bbbdc0b32cacd!2sAptech%20Malir%20Center!5e0!3m2!1sen!2s!4v1731871586435!5m2!1sen!2s" 
+                            width="100%" 
+                            height="100%" 
+                            style="border:0;" 
+                            allowfullscreen="" 
+                            loading="lazy" 
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
+                    </div>
+                </div>
+    
+                <!-- Right Column (Contact Form) -->
+                <div class="col-12 col-lg-6 p-4">
+                    <form id="submit-cont-form" action="submit-cont-form">
+                        <div class="row gy-4">
+                            <div class="col-12">
+                                <label for="fullname" class="form-label">Full Name <span class="text-danger">*</span></label>
+                                <input type="text" class="form-control" id="fullname" name="fullname" required>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <label for="email" class="form-label">Email <span class="text-danger">*</span></label>
+                                <input type="email" class="form-control" id="email" name="email" required>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <label for="phone" class="form-label">Phone Number</label>
+                                <input type="tel" class="form-control" id="phone" name="phone">
+                            </div>
+                            <div class="col-12">
+                                <label for="subject" class="form-label">Subject <span class="text-danger">*</span></label>
+                                <input type="text" class="form-control" id="subject" name="subject" required>
+                            </div>
+                            <div class="col-12">
+                                <label for="message" class="form-label">Message <span class="text-danger">*</span></label>
+                                <textarea class="form-control" id="message" name="message" rows="3" required></textarea>
+                            </div>
+                            <div class="col-12">
+                                <div class="d-grid">
+                                    <button class="send-button" type="submit">Send Message</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="contact-info mb-5">
+        <div class="container">
+          <div class="row justify-content-around text-center">
+            <!-- Location Icon -->
+            <div class="col-4">
+              <i class="fa-solid fa-location-dot"></i>
+              <p class="mt-2 mb-5 c1" style="color: #929090;">Aptech Malir Center City</p>
+            </div>
+            
+            <!-- Phone Icon -->
+            <div class="col-4">
+              <i class="fa-solid fa-phone"></i>
+              <p class="mt-2 mb-5 c1" style="color: #929090;">+92-316-8969367</p>
+            </div>
+            
+            <!-- Email Icon -->
+            <div class="col-4">
+              <i class="fa-solid fa-envelope"></i>
+              <p class="mt-2 mb-5 c1" style="color: #929090;">Simplons-Beauty-Care@gmail.com</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+  <footer>
+    <!-- footer -->
+  </footer>
+</body>
+</html>
+<!-- js files links -->
+<script src="assets/js/nav-foot.js"></script>
+<script src="assets/js/contact.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/add-to-card.js"></script>
+
+<!-- js files links -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
